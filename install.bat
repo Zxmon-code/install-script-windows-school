@@ -6,4 +6,4 @@ winget install KDE.Krita
 
 winget install Audacity.Audacity
 
-winget install Mozilla. Firefox
+winget install Mozilla.Firefox
